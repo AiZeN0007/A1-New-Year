@@ -1,0 +1,22 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+.banner-card{
+    background-image: url('../images/Banner_Image.png');
+    width: 75%;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+
+.banner-text{
+    font-family: 'Merriweather', serif;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
