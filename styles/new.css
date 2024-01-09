@@ -401,3 +401,35 @@ body {
     line-height: 32px;
     width: 60%;
 }
+
+footer {
+    color: #FFF;
+    padding: 120px 140px;
+    background-color: #070211;
+}
+
+footer div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer h3{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.links{
+    justify-content: center; 
+    gap: 10px; 
+    padding: 80px;
+    border-style: solid;
+    border-width: 0;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-color: rgba(255, 255, 255, 0.15);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
